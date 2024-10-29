@@ -14,3 +14,4 @@
 
 
 ## Demo Aplikasi
+<img src="src/assets/image/demo.gif">
