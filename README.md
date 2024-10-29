@@ -3,9 +3,9 @@
 ## Cara menambahkan komponen pada Ionic
 
 1. Buka proyek Ionic pada VS Code
-   <img src="../../assets/images/1.png">
+   <img src="../../assets/image/1.png">
 2. Pilih file yang akan ditambahkan komponen (pada contoh sekarang yaitu src/app/folder/folder.page.html
-   <img src="../../assets/images/2.png">
+   <img src="../../assets/image/2.png">
 3. Buka dokumentasi Ionic di https://ionicframework.com/docs/components untuk melihat daftar komponen.
 4. Pilih komponen yang diinginkan
 5. Salin kode dari dokumentasi dan tempelkan di yang dipilih.
